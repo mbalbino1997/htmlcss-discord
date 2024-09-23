@@ -36,7 +36,7 @@ img {
 .section-1 > h1 {
     margin-bottom: 45px;
     font-size: 60px;
-    font-weight: 600;
+    font-weight: 500;
 }
 .section-2 > h1 {
     text-wrap:nowrap;
@@ -237,7 +237,7 @@ section .section-1 {
 }
 .row.section-2 {
     display:flex;
-    padding: 30px 0;
+    padding: 70px 0;
 }
 
 .col-66 {
