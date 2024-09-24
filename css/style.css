@@ -100,7 +100,7 @@ img {
 }
 .button-style-3 {
     color: white;
-    background-color:rgba(114,137,217,255) ;
+    background-color:rgba(114,137,217,255);
     border-radius: 999px;
     padding: 5px 10px;
     margin:0 auto;
@@ -304,4 +304,12 @@ footer {
     flex-grow: 0;
     background-color: lightgray;
     padding:5px;
+}
+#dark-background {
+    background-color:rgb(52, 48, 48);
+}
+#smaller-text {
+    text-wrap: wrap;
+    font-size: 40px;
+    color: rgba(114,137,217,255);
 }
